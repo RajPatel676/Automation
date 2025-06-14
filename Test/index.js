@@ -1,3 +1,4 @@
+// Refactored
 function showMessage() {
     alert("Hello from JavaScript!");
 }
